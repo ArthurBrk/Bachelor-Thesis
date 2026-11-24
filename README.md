@@ -5,8 +5,6 @@ A load cell captures thrust, torque and dedicated power meters track the electri
 A STM32 handles motor control, data acquisition and signal evaluation.
 Results are streamed via UART over USB to a PC for visualization.
 
----
-
 # Parts used
 **Readytosky 45A 2-6S BlHeli_S**
 **2xEmax Eco II 2004 1600KV**
